@@ -1,11 +1,14 @@
 <h2>Sup! 👋</h2>
 
-I'm Neha Sharma
+Hello!
+This is _Neha Sharma
+
+Here's something about me:
 - Data Science Student at Noida Institute of Engineering and Technology👩‍🎓
 
 <h2>Currently Learning 💻</h2>
 
-I’m Currently Learning:
+_I’m Currently Learning:
 
 - Introduction to Data Science
 
@@ -25,4 +28,6 @@ I’m Currently Learning:
 
 
 <h2>Reach Me at: 📫</h2>
-📩 <a href="mailto:nehasharmajp2002@gmail.com">nehasharmajp2002@gmail.com</a>
+
+_My Email:
+- 📩 <a href="mailto:nehasharmajp2002@gmail.com">nehasharmajp2002@gmail.com</a>
