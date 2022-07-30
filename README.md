@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2>Sup! 👋</h2>
 
-<!--
-**neha-ns28/neha-ns28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Neha Sharma
+- Data Science Student at Noida Institute of Engineering and Technology👩‍🎓
 
-Here are some ideas to get you started:
+<h2>Currently Learning 💻</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m Currently Learning:
+
+- Introduction to Data Science
+
+- Advanced Python
+
+![image](https://user-images.githubusercontent.com/110185548/181935889-94ebe857-cc01-4653-9928-4365d70ac852.png)
+
+- Human Centered Design Thinking
+
+- HTML
+
+    ![image](https://user-images.githubusercontent.com/110185548/181936025-277d736b-20ee-429b-85b5-51610fd333e0.png)
+
+- SQL
+  
+  ![image](https://user-images.githubusercontent.com/110185548/181935993-04a03343-e3c3-4dae-8023-249987848ffe.png)
+
+
+<h2>Reach Me at: 📫</h2>
+📩 <a href="mailto:nehasharmajp2002@gmail.com">nehasharmajp2002@gmail.com</a>
