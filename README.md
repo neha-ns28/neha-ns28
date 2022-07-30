@@ -1,7 +1,7 @@
 <h2>Sup! 👋</h2>
 
 This is _Neha Sharma_
-- Data Science Student at Noida Institute of Engineering and Technology👩‍🎓
+- A Data Science Student at Noida Institute of Engineering and Technology👩‍🎓
 
 <h2>Currently Learning 💻</h2>
 
