@@ -2,6 +2,7 @@
 
 This is _Neha Sharma_
 - A Data Science Student at Noida Institute of Engineering and Technology👩‍🎓
+- Currently Residing in Greater Noida
 
 <h2>Currently Learning 💻</h2>
 
