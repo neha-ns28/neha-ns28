@@ -1,9 +1,6 @@
 <h2>Sup! 👋</h2>
 
-Hello!
 This is _Neha Sharma_
-
-Here's something about me:
 - Data Science Student at Noida Institute of Engineering and Technology👩‍🎓
 
 <h2>Currently Learning 💻</h2>
