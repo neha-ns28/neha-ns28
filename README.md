@@ -16,6 +16,8 @@ _I’m Currently Learning:_
 
 - Human Centered Design Thinking
 
+- Web Development 
+
 - HTML
 
     ![image](https://user-images.githubusercontent.com/110185548/181936025-277d736b-20ee-429b-85b5-51610fd333e0.png)
